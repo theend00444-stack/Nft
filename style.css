@@ -74,10 +74,6 @@ a {
     background: #a259ff;
 }
 
-.sign-up img {
-    margin-right: 10px;
-    width: 20px;
-}
 
 /* Responsive Header */
 @media (max-width: 900px) {
@@ -3746,4 +3742,5 @@ h1, h2, h3, h4, p {
 *[style*="text-orientation"] {
     writing-mode: horizontal-tb !important;
     text-orientation: mixed !important;
+
 }
